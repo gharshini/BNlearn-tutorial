@@ -6,8 +6,8 @@ This repository is a tutorial on how to use BNlearn package in R and Python.
 Requirements:
 
 R:
-bnlearn
-igraph
+1.bnlearn
+2.igraph
 
 Python:
 bnlearn
